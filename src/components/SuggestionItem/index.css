@@ -1,0 +1,21 @@
+.suggestions-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.suggestion-name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+}
+.btn {
+  background-color: #ffffff;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+  background-color: #ffffff;
+}
